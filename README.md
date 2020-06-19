@@ -8,11 +8,11 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 ![Alt text](https://github.com/Gavinuuup/QuantumultX/blob/master/icon/show/show.png)  
 ***  
 # [分流](/Filter)
-仅包含 Netfilx 和 Speedtest 自用兼学习  
+仅包含 `Netfilx` 和 `Speedtest` 自用兼学习  
 ***  
 # [复写](/Rewrite)
-仅包含 TikTok解锁  
+仅包含 `TikTok解锁`  
 ***  
 # [脚本](/Script)
-仅包含 **[Shawn](https://github.com/KOP-XIAO)** 的 resource-parser.js 和 IP_API  
-自己留下来学习用的，如果需要请去 **[Shawn大佬主页](https://github.com/KOP-XIAO)**
+仅包含 **[Shawn](https://github.com/KOP-XIAO)** 的 `[IP_API](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/IP_API.js)` 和 `[resource-parser.js](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/resource-parser.js)`   
+自己留下来学习用的，如果需要请去 **[Shawn大佬仓库](https://github.com/KOP-XIAO/QuantumultX/tree/master/Scripts)**
