@@ -14,5 +14,5 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 仅包含 TikTok解锁  
 ***  
 # [脚本](/Script)
-仅包含 [Shawn](/https://github.com/KOP-XIAO) 的 resource-parser.js 和 IP_API  
-自己留下来学习用的，如果需要请去 [Shawn大佬主页](/https://github.com/KOP-XIAO)
+仅包含 **[Shawn](https://github.com/KOP-XIAO)** 的 resource-parser.js 和 IP_API  
+自己留下来学习用的，如果需要请去 [Shawn大佬主页](https://github.com/KOP-XIAO"悬停显示")
