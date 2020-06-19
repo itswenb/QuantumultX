@@ -14,5 +14,5 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 仅包含 `TikTok解锁`  
 ***  
 # [脚本](/Script)
-仅包含 **[Shawn](https://github.com/KOP-XIAO)** 的 `[IP_API](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/IP_API.js)` 和 `[resource-parser.js](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/resource-parser.js)`   
+仅包含 **[Shawn](https://github.com/KOP-XIAO)** 的 [IP_API](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/IP_API.js) 和 [resource-parser.js](/https://github.com/Gavinuuup/QuantumultX/blob/master/Script/resource-parser.js)   
 自己留下来学习用的，如果需要请去 **[Shawn大佬仓库](https://github.com/KOP-XIAO/QuantumultX/tree/master/Scripts)**
