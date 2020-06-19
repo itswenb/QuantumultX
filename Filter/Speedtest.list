@@ -1,0 +1,12 @@
+# > Speedtest Ookla
+USER-AGENT,SpeedTest*, Speedtest
+DOMAIN-KEYWORD,speedtest, Speedtest
+DOMAIN-SUFFIX,speedtest.net, Speedtest
+DOMAIN-SUFFIX,ooklaserver.net, Speedtest
+DOMAIN-SUFFIX,88-f.net, Speedtest
+DOMAIN,st.pautina-telecom.ru, Speedtest
+DOMAIN-SUFFIX,goodnet.su, Speedtest
+DOMAIN-SUFFIX,lg-hkg.fdcservers.net, Speedtest
+DOMAIN-SUFFIX,1x1.a-mo.net, Speedtest
+DOMAIN-SUFFIX,shenron.smartone.com, Speedtest
+DOMAIN-SUFFIX,sp1.comiten.ru, Speedtest
