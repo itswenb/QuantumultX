@@ -5,4 +5,14 @@
 举例 ：  
 static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/QuantumultX/master/icon/hk.png  
 这样就调用了香港图标
-![Alt text](https://github.com/Gavinuuup/QuantumultX/blob/master/icon/show/show.png)
+![Alt text](https://github.com/Gavinuuup/QuantumultX/blob/master/icon/show/show.png)  
+***  
+# [分流](/Filter)
+仅包含 Netfilx 和 Speedtest 自用兼学习  
+***  
+# [复写](/Rewrite)
+仅包含 TikTok解锁  
+***  
+# [脚本](/Script)
+仅包含 [Shawn](/https://github.com/KOP-XIAO) 的 resource-parser.js 和 IP_API  
+自己留下来学习用的，如果需要请去 [Shawn大佬主页](/https://github.com/KOP-XIAO)
