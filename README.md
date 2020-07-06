@@ -1,5 +1,5 @@
 # [图标](/icon)
-包含策略组图标和 **[task](/cron)** 图标  
+包含策略组图标和 **[task](https://github.com/Gavinuuup/QuantumultX/tree/master/icon/cron)** 图标  
 用法 ：  
 策略组后添加 img-url=https://raw.githubusercontent.com/Gavinuuup/QuantumultX/master/icon/hk.png  
 举例 ：  
