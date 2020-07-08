@@ -1,0 +1,18 @@
+# (Region-Restricted Access Denied)
+# ---(Apple)---
+# > Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re,PROXY
+# > iBooks Store download
+DOMAIN,books.itunes.apple.com,PROXY
+# > App Store Preview
+DOMAIN,apps.apple.com,PROXY
+DOMAIN,itunes.apple.com,PROXY
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com,PROXY
+# > Look Up
+DOMAIN,lookup-api.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+# > Apple Music Web
+DOMAIN,beta.music.apple.com,PROXY
+# > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
+DOMAIN-KEYWORD,buy.itunes.apple.com,PROXY
