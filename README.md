@@ -10,6 +10,7 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 # [分流](/Filter)
 * `Netfilx` 和 `Speedtest` 自用兼学习  
 * `appleG`来自神机规则， **[花姐](https://github.com/DivineEngine/Profiles/blob/master/README.md)** 说明：对于一些 Apple 被「墙」或者主动「墙」的服务如 App Store Preview、Moveis Trailers、查询外汇、国际航线的 Spotlight、维基百科查询的 Dictionary 
+* `mercari` 日本闲鱼メルカリ
 ***  
 # [复写](/Rewrite)
 仅包含 `TikTok解锁`  
