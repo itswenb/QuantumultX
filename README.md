@@ -25,4 +25,6 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 来自 **[Peng-YM](https://github.com/Peng-YM/ScriptConverter)** 大佬  
 * **emby解锁** 来自 **[普拉斯影业](https://subweb.oss-cn-hongkong.aliyuncs.com/Script/embycrack.js)**  
 普拉斯影业提供的emby解锁复写：  
-Rewrite: https://subweb.oss-cn-hongkong.aliyuncs.com/Module/embyUnlocked.conf
+Rewrite: https://subweb.oss-cn-hongkong.aliyuncs.com/Module/embyUnlocked.conf  
+* 京东·淘宝历史价来自 **[yichahucha](https://github.com/yichahucha/surge/blob/master/README.md#surge)**  
+
