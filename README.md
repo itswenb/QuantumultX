@@ -13,7 +13,8 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 * `mercari` 日本闲鱼メルカリ
 ***  
 # [复写](/Rewrite)
-仅包含 `TikTok解锁`  
+* **[TikTok解锁](https://github.com/Gavinuuup/QuantumultX/blob/master/Rewrite/TikTok%20unlock.list)**  
+* **[emby解锁](https://github.com/Gavinuuup/QuantumultX/blob/master/Rewrite/emby.conf)**  
 ***  
 # [脚本](/Script)
 * **[Shawn](https://github.com/KOP-XIAO)** 的 [IP_API](https://github.com/Gavinuuup/QuantumultX/blob/master/Script/IP_API.js) 和 [resource-parser.js](https://github.com/Gavinuuup/QuantumultX/blob/master/Script/resource-parser.js)   
