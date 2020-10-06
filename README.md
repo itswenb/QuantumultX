@@ -22,9 +22,9 @@ static=香港, 🇭🇰01, img-url=https://raw.githubusercontent.com/Gavinuuup/Q
 * [js-converter.js](https://github.com/Gavinuuup/QuantumultX/blob/master/Script/resource-parser.js)  
 适用于QX，Surge和Loon的脚本转换器  
 将所有引用的远程脚本自动转换成同时兼容QX, Surge, Loon的格式。主要用于签到类脚本中。转换器会根据脚本内容判断是否需要注入格式转换的代码。目的是减少脚本开发者在编写脚本时需要重复适配多平台的冗余代码。用户直接加入转换器即可。  
-来自 **[Peng-YM](https://github.com/Peng-YM/ScriptConverter)** 大佬  
+来自 **[Peng-YM大佬](https://github.com/Peng-YM/ScriptConverter)**   
 * **emby解锁** 来自 **[普拉斯影业](https://subweb.oss-cn-hongkong.aliyuncs.com/Script/embycrack.js)**  
 普拉斯影业提供的emby解锁复写：  
 Rewrite: https://subweb.oss-cn-hongkong.aliyuncs.com/Module/embyUnlocked.conf  
-* 京东·淘宝历史价来自 **[yichahucha](https://github.com/yichahucha/surge/blob/master/README.md#surge)**  
+* 京东·淘宝历史价来自 **[yichahucha大佬](https://github.com/yichahucha/surge/blob/master/README.md#surge)**  
 
