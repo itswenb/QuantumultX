@@ -11,12 +11,7 @@ function getRandomInt(max) {
 
 function City_ValidCheck(para) {
   if(para) {
-    if (para.length<6) {
-      return para
-    } else {
-      return para.slice(0,5)
-    }
-  
+  return para
   } else
   {
   return city0
