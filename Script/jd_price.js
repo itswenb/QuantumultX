@@ -20,8 +20,11 @@ if (url.indexOf(path1) != -1) {
 
 if (url.indexOf(path3) != -1) {
     let obj = JSON.parse(body);
-    delete obj.data.JDHttpToolKit.httpdns;
-    delete obj.data.JDHttpToolKit.dnsvipV6;
+    let JDHttpToolKit = obj.data.JDHttpToolKit;
+    if (JDHttpToolKit) {
+        delete obj.data.JDHttpToolKit.httpdns;
+        delete obj.data.JDHttpToolKit.dnsvipV6;
+    }
     $done({ body: JSON.stringify(obj) });
 }
 
@@ -92,7 +95,7 @@ function priceSummary(data) {
 
 function historySummary(single) {
     const rexMatch = /\[.*?\]/g;
-    const rexExec = /\[(.*),(.*),"(.*)"\]/;
+    const rexExec = /\[(.*),(.*),"(.*)".*\]/;
     let currentPrice, lowest60, lowest180, lowest360
     let list = single.jiagequshiyh.match(rexMatch);
     list = list.reverse().slice(0, 360);
